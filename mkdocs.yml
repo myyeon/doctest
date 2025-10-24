@@ -16,4 +16,4 @@ nav:
       #- Observability: modules/observability.md
       #- Testing: modules/testing.md
   - 가이드:
-      #- 시작하기: guides/getting-started.md
+      - 시작하기: guides/getting-started.md
