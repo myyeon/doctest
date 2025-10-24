@@ -1,0 +1,14 @@
+nav:
+  - 개요: index.md
+  - 모듈:
+      - Bom: modules/bom.md
+      #- Batch: modules/batch.md
+#      - Flow: modules/flow.md
+#      - Domain: modules/domain.md
+      #- Web: modules/web.md
+      #- Util: modules/util.md
+      #- Security: modules/security.md
+      #- Observability: modules/observability.md
+      #- Testing: modules/testing.md
+  - 가이드:
+      #- 시작하기: guides/getting-started.md
